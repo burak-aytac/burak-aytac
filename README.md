@@ -3,10 +3,10 @@
 ## I'm a Husband, Developer, and Technology Lover!!
 
 - 🔭 I'm a AI and blockchain lover!
-- 🌱 I’m currently learning Full-Stack
+- 🌱 I’m a Full-Stack Developer!
 - 📫 I’m currently working as a product manager
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 
 
 
